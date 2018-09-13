@@ -24,9 +24,9 @@ public class SeekForFlightRunner {
 
         }
 
-        //Both airports are unavailable/false.
+        //Requested airport is not present in the  mao
         try {
-            seekForFlight.findFilght(new Flight("Barcelona Airport", "Radom Airport"));
+            seekForFlight.findFilght(new Flight("Kolonia Airport", "Bon Airport"));
         } catch (RouteNotFoundException e) {
             System.out.println("Error: " + e);
         } finally {

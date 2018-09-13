@@ -24,12 +24,12 @@ public class SeekForFlight {
 
         Boolean arrivalAirportIsPresent = arrivalAirports.get(flight.getArrivalAirport());
 
-        if (departureAirportIsPresent && arrivalAirportIsPresent) {
+        if(departureAirportIsPresent == null || arrivalAirportIsPresent == null) {
+            throw new RouteNotFoundException();
+        } else if (departureAirportIsPresent && arrivalAirportIsPresent) {
             System.out.println("Flight is available.");
         } else if (departureAirportIsPresent || arrivalAirportIsPresent) {
             System.out.println("Flight is unavailable.");
-        } else {
-            throw new RouteNotFoundException();
         }
     }
 }
