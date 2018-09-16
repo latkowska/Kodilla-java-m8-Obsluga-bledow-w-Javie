@@ -28,7 +28,7 @@ public class SeekForFlightRunner {
         try {
             seekForFlight.findFilght(new Flight("Kolonia Airport", "Bon Airport"));
         } catch (RouteNotFoundException e) {
-            System.out.println("Flight is unavailable.");
+            System.out.println("Error: " + e);
         } finally {
             System.out.println("We are very sorry but both airports are unavailable. Change airport?");
 

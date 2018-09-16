@@ -36,8 +36,8 @@
       <file leaf-file-name="SeekForFlight.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/SeekForFlight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+            <state relative-caret-position="263">
+              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -45,8 +45,8 @@
       <file leaf-file-name="SeekForFlightRunner.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/SeekForFlightRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="45">
+              <caret line="32" column="100" selection-start-line="32" selection-start-column="100" selection-end-line="32" selection-end-column="100" />
             </state>
           </provider>
         </entry>
@@ -522,8 +522,8 @@
         <option value="$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/com/kodilla/exception/test/SeekForFlight.java" />
         <option value="$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/com/kodilla/exception/test/SeekForFlightRunner.java" />
         <option value="$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/Flight.java" />
-        <option value="$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/SeekForFlightRunner.java" />
         <option value="$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/SeekForFlight.java" />
+        <option value="$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/SeekForFlightRunner.java" />
       </list>
     </option>
   </component>
@@ -534,8 +534,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="81" />
-    <option name="y" value="191" />
+    <option name="x" value="80" />
+    <option name="y" value="190" />
     <option name="width" value="1510" />
     <option name="height" value="540" />
   </component>
@@ -820,12 +820,12 @@
       <workItem from="1536579689668" duration="1454000" />
       <workItem from="1536653346688" duration="4266000" />
       <workItem from="1536768450799" duration="3700000" />
-      <workItem from="1536910931357" duration="662000" />
+      <workItem from="1536910931357" duration="1510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63592000" />
+    <option name="totallyTimeSpent" value="64440000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -842,6 +842,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4986577" weight="0.32905984" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
@@ -850,7 +851,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.30341882" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32905984" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7393162" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.7393162" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49893844" visible="true" weight="0.21543624" />
@@ -862,7 +863,6 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3988604" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4986577" weight="0.32905984" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.094017096" />
@@ -1227,15 +1227,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/SeekForFlight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+        <state relative-caret-position="263">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kodilla-exception/src/main/java/com/kodilla/exception/test/SeekForFlightRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="45">
+          <caret line="32" column="100" selection-start-line="32" selection-start-column="100" selection-end-line="32" selection-end-column="100" />
         </state>
       </provider>
     </entry>
